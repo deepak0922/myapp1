@@ -3,7 +3,7 @@ import React from "react";
 import Expenses from "./components/Expenses/Expenses";
 import "./index.css";
 
-function App() {
+const App = () => {
   const expenses = [
     {
       id: "e1",
